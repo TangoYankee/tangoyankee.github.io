@@ -1,5 +1,3 @@
-# tangoyankee.io
-
 ## GitHub Profile
 - [TangoYankee](https://github.com/TangoYankee)
 
