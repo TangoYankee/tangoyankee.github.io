@@ -1,8 +1,20 @@
-# [tangoyankee.github.io](https://tangoyankee.github.io)
+# tangoyankee.io
 
-**GitHub Profile**
+## GitHub Profile
 - [TangoYankee](https://github.com/TangoYankee)
 
-**GTECH 731 Homework Assignments**
-- [Page](https://tangoyankee.github.io/gtech_731-geocomp-hw)
+## Home (tangoyankee.io)
+- [Webpage](https://tangoyankee.github.io)
+- [Repository](https://github.com/tangoyankee/tangoyankee.github.io)
+
+## GTECH 731 Homework Assignments
+- [Webpage](https://tangoyankee.github.io/gtech_731-geocomp-hw)
 - [Repository](https://github.com/tangoyankee/gtech_731-geocomp-hw)
+
+## GTECH 705 Project
+- [Webpage](https://tangoyankee.github.io/brooklyn-lodes)
+- [Repository](https://github.com/TangoYankee/brooklyn-lodes) 
+
+## Solid with Github Pages demo
+- [Webpage](https://tangoyankee.io/solid-gh-pages/)
+- [Repository](https://github.com/TangoYankee/solid-gh-pages)
