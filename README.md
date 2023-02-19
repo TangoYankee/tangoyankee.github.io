@@ -19,3 +19,7 @@
 ## Solid with Github Pages demo
 - [Webpage](https://tangoyankee.io/solid-gh-pages/)
 - [Repository](https://github.com/TangoYankee/solid-gh-pages)
+
+## NYC Boroughs map: MVP for Maplibre with Solid
+- [Webpage](https://tangoyankee.io/solid-maplibre-nyc_boroughs/)
+- [Repository](https://github.com/TangoYankee/solid-maplibre-nyc_boroughs)
