@@ -6,6 +6,8 @@
 - [Repository](https://github.com/tangoyankee/tangoyankee.github.io)
 
 ## Spring 2023 Project: Subway ADA SDSS
+- [GUI Webpage](http://tangled.city)
+- [API Webpage](http://tangled.city/api/v1)
 - [Repository](https://github.com/TangoYankee/subway-ada-sdss)
 
 ## GTECH 731 Homework Assignments
