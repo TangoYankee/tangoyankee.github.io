@@ -14,6 +14,10 @@
 - [Webpage](https://tangoyankee.github.io/gtech_731-geocomp-hw)
 - [Repository](https://github.com/tangoyankee/gtech_731-geocomp-hw)
 
+## GTECH 78543 Homework Assignments
+- [Webpage](https://tangoyankee.io/gtech_78534-webgis-hw/)
+- [Repository](https://github.com/TangoYankee/gtech_78534-webgis-hw)
+
 ## GTECH 705 Project
 - [Webpage](https://tangoyankee.github.io/brooklyn-lodes)
 - [Repository](https://github.com/TangoYankee/brooklyn-lodes) 
