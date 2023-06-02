@@ -14,9 +14,6 @@
 - [Webpage](https://tangoyankee.github.io/gtech_731-geocomp-hw)
 - [Repository](https://github.com/tangoyankee/gtech_731-geocomp-hw)
 
-## GTECH 732
-- ["tidy" mangrove data](./tidy_mangrove_analysis.csv)
-
 ## GTECH 78543 Homework Assignments
 - [Webpage](https://tangoyankee.io/gtech_78534-webgis-hw/)
 - [Repository](https://github.com/TangoYankee/gtech_78534-webgis-hw)
